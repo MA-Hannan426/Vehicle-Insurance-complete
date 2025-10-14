@@ -1,0 +1,9 @@
+
+mongo db 
+
+mahannan230_db_user
+
+p6IoZecCaXXjOx4K
+
+
+mongodb+srv://mahannan230_db_user:p6IoZecCaXXjOx4K@cluster0.6efko7e.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
